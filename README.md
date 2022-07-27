@@ -1,5 +1,5 @@
 # AWS-Static-Website
-In this project, i have deployed a static website to AWS using S3, CloudFront, and IAM.
+In this Udacity project, i have deployed a static website to AWS using S3, CloudFront, and IAM.
 
 The files included are: 
 
